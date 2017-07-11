@@ -1,4 +1,15 @@
-[v0.0.2](https://github.com/littleflute/Bob-Dylan4/edit/master/README.md)
+[v0.0.3](https://github.com/littleflute/Bob-Dylan4/edit/master/README.md)
+
+[The 1966 Live Recordings Disc 1](The 1966 Live Recordings Disc 1)
+
+[The 1966 Live Recordings Disc 2](The 1966 Live Recordings Disc 2)
+
+[The 1966 Live Recordings Disc 3](The 1966 Live Recordings Disc 3)
+
+[The 1966 Live Recordings Disc 4](The 1966 Live Recordings Disc 4)
+
+[The 1966 Live Recordings Disc 5](The 1966 Live Recordings Disc 5)
+
 
 [https://littleflute.github.io/Bob-Dylan](https://littleflute.github.io/Bob-Dylan)
 
